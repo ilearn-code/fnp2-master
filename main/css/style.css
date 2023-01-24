@@ -33,7 +33,7 @@ body{
   
 }
 
-.header_first h1 ,p{
+.header_first h1 ,p ,h3{
   
   color:white;
 }
@@ -54,4 +54,13 @@ body{
 .ban_1
 {
   height: 700px;
+}
+
+hr {
+  height:2px;
+  width: 30%;
+  border: 2px solid #007fff 
+}
+h5{
+  color: gray;
 }
